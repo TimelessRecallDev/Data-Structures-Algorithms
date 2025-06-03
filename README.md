@@ -28,4 +28,4 @@
 
 ---
 
-*Made by TimelessRecallDev — ⭐️ Star if you like!*
+*⭐️ Star if you like!*
