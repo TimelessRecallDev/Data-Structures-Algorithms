@@ -9,15 +9,15 @@
 
 ## Table of Contents
 
-- [Recursion](./Recursion/README.md)
-- [Arrays](./Arrays/README.md)
-- [Linked Lists](./LinkedLists/README.md)
-- [Stacks](./Stacks/README.md)
-- [Queues](./Queues/README.md)
-- [Trees](./Trees/README.md)
-- [Graphs](./Graphs/README.md)
-- [Sorting](./Sorting/README.md)
-- [Dynamic Programming](./DynamicProgramming/README.md)
+- [Recursion](./Recursion/theory.md)
+- [Arrays](./Arrays/theory.md)
+- [Linked Lists](./LinkedLists/theory.md)
+- [Stacks](./Stacks/theory.md)
+- [Queues](./Queues/theory.md)
+- [Trees](./Trees/theory.md)
+- [Graphs](./Graphs/theory.md)
+- [Sorting](./Sorting/theory.md)
+- [Dynamic Programming](./DynamicProgramming/theory.md)
 
 ---
 
@@ -28,4 +28,4 @@
 
 ---
 
-Made by TimelessRecallDev — ⭐️ Star if you like!
+*Made by TimelessRecallDev — ⭐️ Star if you like!*
