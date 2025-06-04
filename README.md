@@ -18,7 +18,7 @@
 - **Learning in Public:** Sharing my progress and insights
 ---
 
-## 📖 Featured Blog Posts & Articles
+## Featured Blog Posts & Articles
 
 - [Taylor Series Using Pure Recursion in C++](https://medium.com/@TimelessRecall/taylor-series-using-pure-recursion-in-c-39a7d141c183)  
   Implemented the Taylor Series expansion for `e^x` using pure recursion and optimized it with Horner’s Rule.
