@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int cal_taylor (int x , int n)
+double cal_taylor (int x , int n)
 {
     static int p {1} , f {1};
     int r;
