@@ -3,7 +3,7 @@ using namespace std;
 
 double cal_taylor (int x , int n)
 {
-    static int p {1} , f {1};
+    static double p {1} , f {1};
     int r;
     
     if (n == 0) return 1;
