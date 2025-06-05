@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-double cal_taylor (int x, int n) //Taylor rescursion using horner's rule
+double cal_taylor (int x, int n) //Taylor recursion using horner's rule
 {
     static double result = 1;
     if (n == 0) return result;
