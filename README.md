@@ -21,7 +21,11 @@
 ## Featured Blog Posts & Articles
 
 - [Taylor Series Using Pure Recursion in C++](https://medium.com/@TimelessRecall/taylor-series-using-pure-recursion-in-c-39a7d141c183)  
-  Implemented the Taylor Series expansion for `e^x` using pure recursion and optimized it with Horner’s Rule.
+  Implemented the Taylor Series expansion for `e^x` using pure recursion, optimized with Horner’s Rule.
+
+- [Why Your Recursive Fibonacci Is a Time-Consuming Monster (And How DP Saves Your Day)](https://medium.com/@TimelessRecall/why-your-recursive-fibonacci-is-a-time-consuming-monster-and-how-dp-saves-your-day-5c6f30098e4c)  
+  Explains why naive recursive Fibonacci is inefficient and how dynamic programming drastically improves performance.
+
 
 *(More blog posts coming soon — follow for updates!)*
 
