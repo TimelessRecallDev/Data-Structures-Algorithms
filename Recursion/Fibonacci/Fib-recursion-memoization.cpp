@@ -18,7 +18,7 @@ int fib_memo (int n)   //Reduced the TC from O(2^N) to O(N)
         if (F[n - 2] == 0) {
             F [n - 2] = fib_memo (n -2);
         }
-        
+        F[n] = F[n -1] + F[n -2];
         return F [n -1] + F[ n -2];
     }
 }
