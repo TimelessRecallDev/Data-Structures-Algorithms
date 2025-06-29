@@ -10,13 +10,13 @@ struct array{
 struct array * merge_array(struct array *a, struct array *b){
     struct array *c = (struct array *)malloc(sizeof(struct array));
 
-    
     int i = 0, j = 0 , k =0;
     
-    while (i < a->length && j < b->length){
+    while (i < a->length && j < b->length){    //merging logic
         if (a->A[i] < b->A[j]) c->A[k++] = a->A[i++];
         else c->A[k++] = b->A[j++];
     }
+
     for ( ; i < a-> length ; i++) c->A[k++] = a->A[i];
     for ( ; j < b-> length ; j++) c->A[k++] = b->A[j];
     
